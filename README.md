@@ -1,4 +1,3 @@
 # prueba2
 
-asjdhakdhajdhjasdh
-ajsdhjaksdhadadjk
+Archivo de prueba dentro del curso de Latex
