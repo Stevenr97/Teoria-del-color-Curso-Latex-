@@ -1,3 +1,3 @@
-# prueba2
+# Teoria del color(Curso Latex)
 
-Archivo de prueba dentro del curso de Latex
+Documento realizado en curso de Latex sobre la teoria del color.
